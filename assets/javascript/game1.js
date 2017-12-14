@@ -70,7 +70,7 @@ var lossCounter   = 0;
 function startGame() {
 
   //Reset the current score to 0
-  var totalScore = 0;
+  totalScore = 0;
 
   //Set targetNumber between 19 and 120
   targetNumber = getRandom(19, 120);
